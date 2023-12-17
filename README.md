@@ -1,7 +1,11 @@
 # ChatGPT-Telegram-Bot
 
-![CI Workflow Status](https://github.com/ccl2020/ChatGPT-Telegram-Bot/actions/workflows/main.yml/badge.svg)
+![CI Workflow Status](https://github.com/ChuanlongChen/ChatGPT-Telegram-Bot/actions/workflows/main.yml/badge.svg)
 
+
+## Usage
+
+<img src="./.assets/chat_with_telegram_bot.png" width="300">
 
 ## How To Install 
 1. Install node js
